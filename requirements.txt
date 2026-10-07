@@ -1,0 +1,17 @@
+pyrogram==2.0.106
+TgCrypto==1.2.5
+pyromod==1.5
+yt-dlp
+pytube==15.0.0
+requests==2.31.0
+aiohttp
+aiofiles
+cloudscraper
+beautifulsoup4
+pycryptodome
+PySocks
+python-dotenv
+pytz
+Flask==2.2.5
+Werkzeug==2.2.3
+gunicorn==21.2.0
